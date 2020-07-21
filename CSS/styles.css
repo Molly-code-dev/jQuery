@@ -25,3 +25,6 @@ text-decoration: underline;
       .clickable:hover {
         text-decoration: underline;
       }
+         #walrus-showing {
+        display: none;
+      }
